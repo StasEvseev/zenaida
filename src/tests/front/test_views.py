@@ -6,6 +6,7 @@ import pytest
 from django.test import TestCase
 
 from back.models import contact
+from tests.testsupport import e2e_test
 
 from zen import zusers
 
